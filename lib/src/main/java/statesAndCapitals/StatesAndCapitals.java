@@ -273,7 +273,7 @@ public class StatesAndCapitals
         // ***** Advanced 4 (fun with mapping) *****
 
         // A41. Submit all state and capital names together, with each state name followed by its capital name
-        // Use flatMap() and Stream.of() (for the pairs)
+        // Use flatMap() and Stream.of() (for the pairs)------------------
 
         List<String> allStateAndCapitalNames = null;
 
